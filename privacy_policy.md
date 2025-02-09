@@ -1,8 +1,8 @@
-Privacy Website 
+Privacy Policy 
 
 Fekra LTD. (“Dr. Blue,” “we”, or “us”) values your privacy. Fekraoffers a telemedicine
 platform and Services (the “Services”). This Telehealth Privacy Policy applies to our website
-https://speetar.com (the “Site”), and mobile applications owned and operated by Fekra LTD.
+https://drblue.ly/ (the “Site”), and mobile applications owned and operated by Fekra LTD.
 For the purposes of this Disclaimer, "you" and "your" means you as the visitor of the
 Website.Through our Services participating medical professionals and healthcare staff
 (“Healthcare Providers” or “Providers”) can provide health care services online to their clients
